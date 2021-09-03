@@ -16,3 +16,5 @@ Google usually says, that an iPad without cellular and SIM can't be used as a pr
 5) ???
 6) U're hackerman
 
+You may meet an error with your proxychains on the mac. Default macbook settings disallow applications from default path to be proxified. 
+So, you need to reinstall an nmap/curl/etc to the another location. 
